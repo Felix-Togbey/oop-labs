@@ -1,0 +1,29 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
+
+# Dependencies
+node_modules/
+
+# Temporary files
+*.tmp
+*.log
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Build output
+dist/
+build/
+
+# TypeScript generated files
+*.js.map
+*.d.ts.map
+
+# Coverage reports
+coverage/
